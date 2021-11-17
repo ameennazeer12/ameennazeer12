@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameen</h1>
 <h3 align="center">I love coding and learning new technologies</h3>
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **ameennazeer12@gmail.com**
 
